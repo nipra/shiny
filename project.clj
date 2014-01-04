@@ -14,5 +14,4 @@
 
   ;; For lein >= 1.7.0
   ;; https://github.com/technomancy/swank-clojure/tree/master/lein-swank
-  :plugins [[lein-swank "1.4.5"]]
-  )
+  :plugins [[lein-swank "1.4.5"]])
